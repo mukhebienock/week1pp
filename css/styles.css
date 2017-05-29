@@ -1,0 +1,35 @@
+h1{
+  color: #FF4500;
+  text-align: center;
+}
+h2{
+  text-align: left;
+  color: green
+}
+.waka{
+  color: #B8860B;
+  text-align: center;
+}
+.mimi{
+  color: #FF6347;
+  background-color: #00008B
+}
+.kwata{
+  color: #CD5C5C;
+  text-align: center;
+  background-color: #FAFAD2;
+}
+.weba{
+  background-color: yellow;
+  background-position: center;
+}
+img{
+  resize: both;
+  height: 300px;
+  width: 250px;
+  align-self: center;
+}
+.cphryn{
+  color: bisque;
+
+}
