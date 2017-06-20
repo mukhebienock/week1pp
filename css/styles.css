@@ -1,7 +1,10 @@
-
 body {
   background-image: url(../images/Enock-Simiyu.jpg);
   background-attachment: fixed;
+}
+.cphryn {
+  color: #00008B;
+  padding: 2em;
 }
 #rowone {
   text-align: center;
@@ -30,5 +33,10 @@ body {
   text-align: center;
   background-color: #2F4F4F;
   color: cyan;
-  opacity: 0.8
+  opacity: 0.8;
+  padding-bottom: 1em;
+}
+#rowlast a:hover{
+  color: red;
+  background-color: yellow;
 }
