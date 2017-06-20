@@ -1,36 +1,34 @@
-h1{
-  color: #FF4500;
-  text-align: center;
-}
-h2{
-  text-align: left;
-  color: green
-}
-.waka{
-  color: #B8860B;
-  text-align: center;
-}
-.mimi{
-  color: #FF6347;
-  background-color: #00008B
-}
-.kwata{
-  color: #CD5C5C;
-  text-align: center;
-  background-color: #FAFAD2;
-}
-.weba{
-  background-color: yellow;
-  background-position: center;
-}
-img{
-  resize: both;
-  height: 300px;
-  width: 250px;
-  align-self: center;
-}
-.cphryn{
-  color: cyan;
-  background-color: #8B008B;
 
+body {
+  background-image: url(../images/Enock-Simiyu.jpg);
+  background-attachment: fixed;
+}
+#rowone {
+  text-align: center;
+}
+#myimg1 {
+  position: relative;
+  height: 200px;
+  width: 250px;
+}
+#rowthree {
+  background-color: dimgray;
+  opacity: 0.9;
+  color: Aqua;
+}
+#rowtwo {
+  background-color: dimgray;
+  color: Blue;
+  opacity: 0.9;
+}
+#rowfour {
+  background-color: dimgray;
+  color: Blue;
+  opacity: 0.9;
+}
+#rowlast {
+  text-align: center;
+  background-color: #2F4F4F;
+  color: cyan;
+  opacity: 0.8
 }
