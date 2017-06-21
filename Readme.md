@@ -3,3 +3,7 @@ _Peter Enock Simiyu Mukhebi is a young upcoming software developer from Kenya. T
 
 ##  Contributers.
 Peter Simiyu wrote the content of this web alone just because, there was no one who understood about him and knew how to code. To make this site better, Peter welcomes any one who wishes to add something on it, please reach Peter Enock Simiyu Mukhebi through the contacts listed on the site.
+
+##  Technology
+
+The technology used is css, bootstrap and html.
